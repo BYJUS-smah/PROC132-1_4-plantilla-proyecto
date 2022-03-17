@@ -5,14 +5,14 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 
 sentence = ["Awesome Camera. Worth the price"]
 
-# Tokenization
+# Tokenización
 
-# Create a word_index dictionary
+# Crear un diccionario word_index
 
-# Padding the sequence
+# Rellenar la secuencia
 
-# Define the model using .h5 file
+# Definir el modelo usando un arhivo .h5
 
-# Test the model
+# Probar el modelo
 
-# Print the result
+# Imprimir el resultado
