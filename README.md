@@ -1,6 +1,6 @@
-# PROC115-V1-plantilla-proyecto2
+# PROC132-plantilla-proyecto
 Definir un modelo para análisis de sentimiento  
   
 Análisis de reseñas de productos  
   
-### Texto en inglés:PRO-C115-Project-Boilerplate
+### Texto en inglés:PRO-C132-Project-Boilerplate
